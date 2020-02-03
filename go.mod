@@ -4,6 +4,7 @@ go 1.13
 
 require (
 	github.com/golang/mock v1.4.0
+	github.com/hashicorp/go-multierror v1.0.0
 	github.com/juju/clock v0.0.0-20190205081909-9c5c9712527c
 	github.com/juju/errors v0.0.0-20190930114154-d42613fe1ab9 // indirect
 	github.com/juju/loggo v0.0.0-20190526231331-6e530bcce5d8 // indirect
